@@ -78,4 +78,4 @@ async def unban(ctx, *, member):
             await ctx.send(f'Unbanned {user.mention}')
             return
 
-client.run('ODU1Nzg4NjA5OTQzNjMzOTYy.YM3lQA.aTN4-z8CkjkA-G56y5c994uhKJQ')
+client.run('YOUR BOT TOKEN HERE')
